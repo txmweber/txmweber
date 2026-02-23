@@ -1,16 +1,21 @@
-## Hi there 👋
+# Tom
 
-<!--
-**txmweber/txmweber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Windows internals • reverse engineering • low-level systems
 
-Here are some ideas to get you started:
+<p>
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,cpp,c,py,windows,git,cmake" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="assets/tools/ida.png" height="16" style="vertical-align: -3px;" />&nbsp;IDA Pro&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/tools/windbg.png" height="16" style="vertical-align: -3px;" />&nbsp;WinDbg&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/tools/bug.png" height="16" style="vertical-align: -3px;" />&nbsp;x64dbg&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/tools/ghidra.png" height="16" style="vertical-align: -3px;" />&nbsp;Ghidra&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/status-online-22c55e?style=flat-square&labelColor=ffffff" />
+  <img src="https://img.shields.io/badge/building-Binary%20Unpacker-3b82f6?style=flat-square&labelColor=ffffff" />
+  <img src="https://img.shields.io/badge/activity-disassembling%20%26%20debugging-8b5cf6?style=flat-square&labelColor=ffffff" />
+  <img src="https://img.shields.io/badge/listening-knockin'%20on%20heaven's%20door-f59e0b?style=flat-square&labelColor=ffffff" />
+</p>
